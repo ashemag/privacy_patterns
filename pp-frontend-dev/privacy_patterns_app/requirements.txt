@@ -16,7 +16,7 @@ idna==2.6
 jsonfield==2.0.2
 mccabe==0.6.1
 pew==1.1.2
-Pillow==5.0.0
+Pillow==8.2.0
 pipenv==9.0.3
 psycopg2==2.7.3.2
 pycodestyle==2.3.1
